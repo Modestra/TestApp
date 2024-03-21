@@ -1,3 +1,4 @@
 import Header from './layouts/Header.vue';
-
-export { Header };
+import Footer from './layouts/Footer.vue';
+import Card from './Card.vue';
+export { Header, Card, Footer };

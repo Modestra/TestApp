@@ -7,11 +7,11 @@
                     <p class="main-text">Умко</p>
                 </div>
             </div>
+            <section class="container-info">
+                <div class="header-block"></div>
+                <div class="header-block"></div>
+            </section>
         </div>
-        <section class="container-info">
-            <div class="header-block"></div>
-            <div class="header-block"></div>
-        </section>
     </header>
 </template>
 
