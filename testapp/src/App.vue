@@ -6,17 +6,6 @@
                 <label class="selector-label label-info">Название курса</label>
                 <input class="selector-input" />
             </div>
-            <div class="selector-container">
-                <label class="selector-label label-info">Стоимость</label>
-                <input class="selector-input" />
-            </div>
-            <div class="selector-container">
-                <label class="selector-label label-info">Тип курса</label>
-                <input class="selector-input" />
-            </div>
-            <div class="selector-container"></div>
-            <div class="selector-container"></div>
-            <div class="selector-container"></div>
         </div>
     </section>
     <div class="container">
